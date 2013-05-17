@@ -2,7 +2,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
+
 		%{--<meta name="layout" content="main"/>--}%
+
 		<title>Nest5, Además te informa</title>
 
 	</head>
